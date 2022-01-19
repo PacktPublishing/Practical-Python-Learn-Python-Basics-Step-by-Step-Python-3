@@ -1,0 +1,9 @@
+# Commands to run one by one in Python Shell
+
+a = int(input("First number: "))
+
+b = int(input("Second number: "))
+
+sum = a + b
+
+str(a) + " + " + str(b) + " = " + str(sum)
